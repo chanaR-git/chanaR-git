@@ -1,7 +1,7 @@
 # Hi, I'm Chana 👋
 ### Full Stack Developer | Backend & Architecture Enthusiast
 
-A meticulous and results-driven Full Stack Developer with a strong foundation in software architecture, data structures, and algorithms. Experienced in designing and building secure, scalable, end-to-end applications, optimizing performance, and collaborating within Agile development teams. 
+A forward-thinking Full Stack Developer dedicated to crafting high-quality web applications. Has a strong foundation in software architecture, data structures, and algorithms. Experienced in designing and building secure, scalable, end-to-end applications, optimizing performance, and collaborating within Agile development teams.
 
 Passionate about solving complex logical challenges, mastering new technologies, and adhering to strict clean code principles and industry Best Practices.
 
