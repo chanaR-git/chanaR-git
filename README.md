@@ -51,7 +51,3 @@ A fully integrated, end-to-end storefront application designed to manage catalog
 ### 📬 Connect With Me
 *   **Email:** chanawork444@gmail.com
 *   **Phone:** 0548544421
-
-### 📬 Connect With Me
-*   **Email:** chanawork444@gmail.com
-*   **LinkedIn:** [Your LinkedIn Profile Link Here]
